@@ -56,3 +56,21 @@ The model is trained on 10,000 images and demonstrates high performance on valid
 | Testing Accuracy | 92.00%    |
 
 ---
+## 💻 Technologies Used
+
+- Python 3.x
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- Pillow (for image processing)
+- Jupyter Notebook
+
+---
+
+## 📱 Future Enhancements
+
+- Add more fruit categories (e.g., Mango, Grapes)
+- Collect and train on real-world images with diverse lighting and occlusion
+- Optimize the model for mobile deployment using TensorFlow Lite
+- Add object detection to identify multiple fruits in one image
+- Develop a user-friendly GUI or mobile app for real-time classification
