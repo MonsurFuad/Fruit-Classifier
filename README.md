@@ -1,4 +1,4 @@
-# Fruit-Classifier
+
 # 🍎 Fruit Classifier Using Deep Learning (MobileNetV2)
 
 A lightweight and accurate image classification project using deep learning and transfer learning to classify fruit images. This was developed as part of a Computer Vision and Image Processing course at Uttara University.
