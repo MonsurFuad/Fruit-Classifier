@@ -11,8 +11,8 @@ This project leverages MobileNetV2, a pretrained convolutional neural network, t
 
 - Apple
 - Banana
-- Orange
-- Pineapple
+- Mango
+- Grape
 - Strawberry
 
 The model is trained on 10,000 images and demonstrates high performance on validation and test data.
@@ -52,16 +52,7 @@ The model is trained on 10,000 images and demonstrates high performance on valid
 
 | Metric              | Value     |
 |---------------------|-----------|
-| Training Accuracy   | 98.74%    |
-| Validation Accuracy | 97.58%    |
-| External Testing    | Performed well on unseen images with high confidence |
+| Training Accuracy   | 97.10%    |
+| Testing Accuracy | 92.00%    |
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/fruit-classifier.git
-cd fruit-classifier
