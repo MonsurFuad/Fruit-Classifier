@@ -69,7 +69,7 @@ The model is trained on 10,000 images and demonstrates high performance on valid
 
 ## 📱 Future Enhancements
 
-- Add more fruit categories (e.g., Mango, Grapes)
+- Add more fruit categories 
 - Collect and train on real-world images with diverse lighting and occlusion
 - Optimize the model for mobile deployment using TensorFlow Lite
 - Add object detection to identify multiple fruits in one image
